@@ -33,7 +33,7 @@ Hi there! I'm a passionate Data Science student at **UniCEUB**, constantly striv
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/leticia-almeida-9ab0a7306")
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-almeida-9ab0a7306)
 
 [![Gmail](https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidaleticia125@gmail.com)
 
